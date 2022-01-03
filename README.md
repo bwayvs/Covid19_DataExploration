@@ -4,7 +4,7 @@ This project explores global Covid-19 data, focusing on percentage of infection,
 
 ## Sources
 
-### Statistics and Research: Coronavirus (COVID-19) Deaths
+### Statistics and Research: Coronavirus (COVID-19) Deaths Dataset
 
 Research and data: Hannah Ritchie, Edouard Mathieu, Lucas Rodés-Guirao, Cameron Appel, Charlie Giattino, Esteban Ortiz-Ospina, Joe Hasell, Bobbie MacDonald, Diana Beltekian, Saloni Dattani and Max Roser
 
