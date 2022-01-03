@@ -16,6 +16,8 @@ https://ourworldindata.org/covid-deaths
 Original project is led by Alex Freberg on his YouTube channel in MS SQL Server. For the complete project, see the following link:
 
 https://www.youtube.com/watch?v=qfyynHBFOsM&t=866s
+
+Please note that my project has been converted into MySQL, so there are several differences in the code.
 ## Project Details
 
 This dataset looks at the number of confirmed deaths due to Covid-19 worldwide. 
