@@ -1,6 +1,6 @@
 # Covid-19 Data Exploration
 
-This project explores global Covid-19 data, focusing on percentage of infection, death and vaccinations per population, worldwide. This portion of the project is completed in MySQL.   
+This case study explores global Covid-19 data, focusing on percentage of infection, death and vaccinations per population, worldwide. This portion of the project is completed in MySQL.   
 
 ## Sources
 
@@ -12,7 +12,7 @@ Web development: Lars Yencken, Daniel Bachler, Ernst van Woerden, Daniel Gavrilo
 
 https://ourworldindata.org/covid-deaths
 
-### Portfolio Project as led by Alex Freberg
+### Project as led by Alex Freberg
 Original project is led by Alex Freberg on his YouTube channel in MS SQL Server. For the complete project, see the following link:
 
 https://www.youtube.com/watch?v=qfyynHBFOsM&t=866s
