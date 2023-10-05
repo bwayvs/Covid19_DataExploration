@@ -12,12 +12,6 @@ Web development: Lars Yencken, Daniel Bachler, Ernst van Woerden, Daniel Gavrilo
 
 https://ourworldindata.org/covid-deaths
 
-### Project as led by Alex Freberg
-Original project is led by Alex Freberg on his YouTube channel in MS SQL Server. For the complete project, see the following link:
-
-https://www.youtube.com/watch?v=qfyynHBFOsM&t=866s
-
-Please note that my project has been converted into MySQL, so there are several differences in the code.
 ## Project Details
 
 This dataset looks at the number of confirmed deaths due to Covid-19 worldwide. 
@@ -78,9 +72,10 @@ I pulled the running sum total of cases, deaths, and death percentage per countr
 - Veronica Broadway (https://bwayvs.github.io/Professional_Portfolio/)
 
 
-## 🚀 About Me
-I am a junior data analyst at an international law firm. I believe data tells us more than numbers. It helps us to understand the relationships between various elements, identify patterns and predict trends. I enjoy using data analysis to identify solutions to business problems. 
+Certainly! Here's a concise "About Me" paragraph for Veronica Broadway based on her resume:
 
+## 🚀 About Me
+I'm Veronica, a results-driven Data Analyst with expertise in SAP and process improvement. With a background in translating complex requirements into actionable insights, I leverage SQL, data visualization tools, and Agile methodologies to optimize supply chains and drive business decisions. My passion lies in turning data into meaningful business strategies, ensuring organizational alignment, and fostering cross-functional collaboration.
 
 ## 🔗 LinkedIn Profile
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veronicabroadway/)
